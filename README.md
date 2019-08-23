@@ -1,5 +1,7 @@
 # vue-okta-auth
 
+This is a demo project for Oauth autentication (implicit) using [VueJS](https://vuejs.org/) and [Okta](https://www.okta.com). It is mostly based on [this tutorial](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node).
+
 ## Project setup
 ```
 npm install
